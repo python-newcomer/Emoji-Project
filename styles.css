@@ -1,0 +1,98 @@
+.ear{
+    position:absolute;
+    height:200px;
+    width:530px;
+    left:100px;
+    top: 100px;
+}
+.e1, .e2{
+    position:absolute;
+    background-color: rgb(238, 156, 170);
+    height:205px;
+    width:205px;
+    left:100px;
+    top:0px;
+    border-radius: 100%;
+    border:7px solid black;
+}
+.e2{
+    left:420px;
+}
+.pig{
+    background-color:rgb(238, 156, 170);
+    height: 500px;
+    width:500px;
+    border-radius: 100%;
+    border: 10px solid black;
+
+}
+.reye{
+    position:absolute;
+    height: 125px;
+    width:125px;
+    left:90px;
+    top:110px;
+    border-radius: 100%;
+    background-color:white;
+    border:7px solid black;
+    
+}
+.leye{
+    position:absolute;
+    height: 125px;
+    width:125px;
+    left:310px;
+    top:110px;
+    border-radius: 100%;
+    background-color:white;
+    border:7px solid black;
+}
+.rpup{
+    position:absolute;
+    height: 70px;
+    width:70px;
+    background-color: black;
+    left:30px;
+    top:30px;
+    border-radius: 100%;
+}
+.lpup{
+    position:absolute;
+    height: 70px;
+    width:70px;
+    background-color: black;
+    left:30px;
+    top:30px;
+    border-radius: 100%;
+}
+.mouth{
+    position: absolute;
+    height:120px;
+    width: 250px;
+    background-color:rgb(241, 77, 189);
+    left:140px;
+    top:300px;
+    border-radius: 35% 35% 35% 35%;
+    border:7px solid black;
+}
+.p1{
+    position:absolute;
+    height:70px;
+    width:55px;
+    background-color: black;
+    left:40px;
+    top:25px;
+    border-radius: 80%;
+}
+.p2{
+    position:absolute;
+    height:70px;
+    width:55px;
+    background-color: black;
+    left:155px;
+    top:25px;
+    border-radius: 80%;
+}
+h1{
+    color: rgb(67, 5, 67);
+}
